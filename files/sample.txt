@@ -1,4 +1,3 @@
-hello
-hi
-how are you
-I am fine
+Hello there!
+welvome
+python
