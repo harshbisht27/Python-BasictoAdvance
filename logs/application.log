@@ -1,0 +1,3 @@
+[ 2025-01-14 03:32:55,712 ] root - INFO - Hello World
+[ 2025-01-14 03:33:50,869 ] root - INFO - There are some issues with application
+[ 2025-01-14 03:34:10,272 ] root - INFO - [Errno 2] No such file or directory: 'files/sample.txt10'
